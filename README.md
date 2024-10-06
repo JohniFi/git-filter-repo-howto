@@ -12,6 +12,7 @@ curl https://raw.githubusercontent.com/newren/git-filter-repo/refs/heads/main/gi
 # 2. clone repository
 # replaye with actual SSH url
 git clone git@github.com:<repo>.git
+# optionally `git log` to show commits with author info
 
 # 3. create mailmap
 # replace with actual info for author and email
